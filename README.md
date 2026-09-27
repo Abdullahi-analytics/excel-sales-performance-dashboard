@@ -169,7 +169,7 @@ Based on the analysis, the following actions could be considered:
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](screenshots/LMS%20Dashboard%20.png)
+![Sales Performance Dashboard](screenshots/lms-dashboard.png)
 
 ## Project Structure
 
